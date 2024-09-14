@@ -43,13 +43,6 @@ This Weather Dashboard is a web application that allows users to search for weat
 2. View the current weather and 5-day forecast for the searched city.
 3. Click on a city in the search history to view its weather again.
 
-## API Key
-
-This project uses the OpenWeatherMap API. You'll need to sign up for a free API key at [OpenWeatherMap](https://openweathermap.org/api) and replace the placeholder API key in the `script.js` file:
-
-```javascript
-const apiKey = 'YOUR_API_KEY_HERE';
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
@@ -59,5 +52,16 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 Weather data provided by OpenWeatherMap
 
 Icons provided by OpenWeatherMap's weather icon set
+
+Assisted by Amazon Q
+
+## API Key
+
+This project uses the OpenWeatherMap API. You'll need to sign up for a free API key at [OpenWeatherMap](https://openweathermap.org/api) and replace the placeholder API key in the `script.js` file:
+
+```javascript
+const apiKey = 'YOUR_API_KEY_HERE';
+
+
 
 Assisted by Amazon Q
