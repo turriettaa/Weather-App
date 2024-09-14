@@ -4,6 +4,8 @@
 
 This Weather Dashboard is a web application that allows users to search for weather information of cities around the world. It provides current weather conditions and a 5-day forecast, utilizing the OpenWeatherMap API to fetch real-time weather data.
 
+<img src="Screenshot 2024-09-14 102644.png" alt="Site Screenshot">
+
 ## Features
 
 - Search for weather by city name
@@ -52,16 +54,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 Weather data provided by OpenWeatherMap
 
 Icons provided by OpenWeatherMap's weather icon set
-
-Assisted by Amazon Q
-
-## API Key
-
-This project uses the OpenWeatherMap API. You'll need to sign up for a free API key at [OpenWeatherMap](https://openweathermap.org/api) and replace the placeholder API key in the `script.js` file:
-
-```javascript
-const apiKey = 'YOUR_API_KEY_HERE';
-
-
 
 Assisted by Amazon Q
