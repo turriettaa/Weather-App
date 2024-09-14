@@ -49,3 +49,15 @@ This project uses the OpenWeatherMap API. You'll need to sign up for a free API 
 
 ```javascript
 const apiKey = 'YOUR_API_KEY_HERE';
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Acknowledgments
+
+Weather data provided by OpenWeatherMap
+
+Icons provided by OpenWeatherMap's weather icon set
+
+Assisted by Amazon Q
