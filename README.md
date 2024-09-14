@@ -38,6 +38,8 @@ This Weather Dashboard is a web application that allows users to search for weat
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in a web browser.
 3. Ensure you have an active internet connection for API calls.
+   
+Alternatively, visit the live site at [turriettaa.github.io/Weather-Dashboard/](https://turriettaa.github.io/Weather-Dashboard).
 
 ## Usage
 
